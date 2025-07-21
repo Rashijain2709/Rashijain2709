@@ -1,41 +1,15 @@
-### 👋 Hi there, I'm Rashi Jain
+### 👋 Hi, I'm Rashi Jain
 
-I'm a passionate Full Stack Developer with experience in building scalable web applications using the MERN stack. I enjoy solving real-world problems and continuously improving my skills.
+I'm a Full Stack Developer (MERN) with **1.5+ years of experience** building scalable web applications.
 
----
-
-### 👀 Interests
-- Full Stack Web Development (MERN)
-- API Design & Integration
-- Scalable System Design
-- Open Source Contributions
-- Learning new tools and technologies
-
----
-
-### 🌱 Currently Learning
-- DevOps basics (CI/CD, Docker)
-- Advanced system design
-- TypeScript
-
----
-
-### 💞️ Open to Collaborate On
-- MERN Stack Projects
-- Automation Scripts
-- Developer Tools
-- Community-driven Open Source Projects
-
----
-
-### 📫 Reach Me At
-- 📧 Email: rashijain2709@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/rashijain2709](https://www.linkedin.com/in/rashijain2709)  
-- 🌐 Portfolio: [rashijain.vercel.app](https://rashijain.vercel.app)
-
----
+- 👀 Interested in Web Development, REST APIs, and Open Source  
+- 🌱 Currently exploring advanced system design and TypeScript  
+- 💼 1.5+ years of hands-on experience in React, Node.js, MongoDB  
+- 💞️ Open to MERN stack collaborations and freelance projects  
+- 📫 Reach me: [rashijain2709@gmail.com](mailto:rashijain2709@gmail.com)  
+  🔗 Portfolio: [rashi-jain-dev-4skbp2y.gamma.site](https://rashi-jain-dev-4skbp2y.gamma.site)  
+  💼 LinkedIn: [linkedin.com/in/rashijain2709](https://www.linkedin.com/in/rashijain2709)
 
 <!---
 Rashijain2709/Rashijain2709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
