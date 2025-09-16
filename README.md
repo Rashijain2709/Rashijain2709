@@ -1,6 +1,6 @@
 # Hi, I am Rashi Jain
 
-I am a Full Stack Developer (MERN) with **1.5+ years of experience** building scalable web applications.
+I am a Full Stack Developer (MERN) with **1.7+ years of experience** building scalable web applications.
 
 - Interested in Web Development, REST APIs, and Open Source  
 - Currently exploring advanced system design and TypeScript  
