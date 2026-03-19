@@ -8,6 +8,7 @@ I am a Full Stack Developer (MERN) with **1.7+ years of experience** building sc
 - Open to MERN stack collaborations and freelance projects  
 - Reach me: [rjrashijain2709@gmail.com](mailto:rjrashijain2709@gmail.com)  
   Portfolio: [rashi-jain-dev-4skbp2y.gamma.site](https://rashi-jain-dev-4skbp2y.gamma.site/rashi-jain-frontend-developer)
+  
   LinkedIn: [linkedin.com/in/rjrashi2709](https://www.linkedin.com/in/rjrashi2709/)
 
 <!---
